@@ -1,0 +1,10 @@
+{
+  "app_name": "telegram",
+  "countries": [
+    "ru",
+    "il",
+    "ae"
+  ],
+  "start_time": "2016-04-20T00:00:00",
+  "timeout_ms": 1000
+}
